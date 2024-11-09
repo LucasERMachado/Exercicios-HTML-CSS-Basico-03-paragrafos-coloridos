@@ -1,0 +1,14 @@
+.texto{
+    margin: 40px;
+    padding: 20px;
+    border: 5px solid;
+    border-top-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+}
+.paragrafo-1{
+    background-color: #F5F5F5;
+}
+
+.paragrafo-2{
+    background-color: #F0CCE2;
+}
